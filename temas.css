@@ -8,7 +8,7 @@
 .encabezado{
     width: 100%;
     height: 150px;
-    background-color: black;
+    background-color: rgb(233, 232, 188);
 }
 .menu{
     width:100% ;
@@ -20,28 +20,31 @@
 .contenedor2{
     width:100% ;
     height: 1200px;
-    background-color: brown;
+    background-color: rgb(230, 136, 136);
     display: flex;
 }
 .izquierdo{
     width: 20%;
     height: 1200px;
-    background-color: aqua;
+    background-color: rgb(145, 155, 241);
 }
 .centro{
     width: 60%;
     height: 1200px;
-    background-color: black;
+    background-color: rgb(208, 143, 214); 
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .derecho{
     width: 20%;
     height: 1200px;
-    background-color: aqua;
+    background-color: rgb(145, 132, 214);
 }
 .sociales{
     width: 100px;
     height: 98px;
-    background-color: rgb(247, 5, 186);
+    background-color: rgb(230, 117, 136);
     margin: 2px;
 
 
@@ -49,7 +52,7 @@
 .ingles{
     width: 100px;
     height: 98px;
-    background-color: rgb(171, 168, 221);
+    background-color: rgba(184, 179, 179, 0.623);
     margin: 2px;
 
 }
@@ -58,6 +61,7 @@
     height: 98px;
     background-color: rgba(52, 128, 16, 0.774);
     margin: 2px;
+    
 
 }
 .biologia{
