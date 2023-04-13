@@ -25,12 +25,12 @@
 }
 .izquierdo{
     width: 20%;
-    height: 1900px;
+    height: 3200px;
     background-color: rgb(145, 155, 241);
 }
 .centro{
     width: 60%;
-    height: 1900px;
+    height: 3200px;
     background-color: rgb(208, 143, 214); 
     color: aliceblue;
     font-size: 20px;
@@ -38,7 +38,7 @@
 }
 .derecho{
     width: 20%;
-    height: 1900px;
+    height: 3200px;
     background-color: rgb(145, 132, 214);
 }
 .sociales{
